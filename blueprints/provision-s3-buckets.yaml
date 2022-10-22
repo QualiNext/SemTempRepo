@@ -16,7 +16,7 @@ grains:
       source:
         path: github.com/QualiNext/torque-demo.git//terraform/s3
       host:
-        name: eks-sem2
+        name: eks-sem
       inputs:
         - region: us-west-1
         - acl: private
